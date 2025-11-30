@@ -2,7 +2,10 @@
 # 🛍️ Cara - E-Commerce Website UI
 
 Cara is a simple and modern **e-commerce website UI** built using **HTML, CSS, and JavaScript**.  
-This project focuses on creating a responsive and user-friendly interface for online shopping platforms.  
+This project focuses on creating a responsive and user-friendly interface for online shopping platforms. 
+
+## 🚀 Live Demo
+🔗 https://ecom-cara.netlify.app/
 
 ## ✨ Features
 - ✅ Responsive design for desktop & mobile  
